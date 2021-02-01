@@ -17,3 +17,6 @@ Some text to Introduction description
 Some other text for deployment
 
 ## How to Contribute
+
+###Copyright
+2021 GIT Training
