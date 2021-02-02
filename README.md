@@ -21,4 +21,4 @@ Some other text for deployment
 Please fork this repository and then issue Pull Requests for review.
 
 ###Copyright
-2021 GIT Training
+2021 GIT Training. All rights reserved.
